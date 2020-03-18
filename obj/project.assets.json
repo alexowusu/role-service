@@ -7306,24 +7306,26 @@
     ]
   },
   "packageFolders": {
-    "/home/pkerbynn/.nuget/packages/": {}
+    "C:\\Users\\Alex\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/pkerbynn/dev/TURNTABL/learn-dash/role-api/role-api.csproj",
+      "projectUniqueName": "C:\\Users\\Alex\\Desktop\\role-service\\role-api.csproj",
       "projectName": "role-api",
-      "projectPath": "/home/pkerbynn/dev/TURNTABL/learn-dash/role-api/role-api.csproj",
-      "packagesPath": "/home/pkerbynn/.nuget/packages/",
-      "outputPath": "/home/pkerbynn/dev/TURNTABL/learn-dash/role-api/obj/",
+      "projectPath": "C:\\Users\\Alex\\Desktop\\role-service\\role-api.csproj",
+      "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Alex\\Desktop\\role-service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/pkerbynn/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -7395,7 +7397,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

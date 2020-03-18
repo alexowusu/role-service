@@ -44,6 +44,9 @@ namespace role_api
             // swagger config must come before UseMvc()
             app.UseSwagger();
 
+            app.UseDefaultFiles();
+            app.UseStaticFiles();
+
             app.UseSwaggerUI(c =>
                     {
                         c.SwaggerEndpoint("/swagger/v1/swagger.json", "RoleAPI");
